@@ -4,7 +4,7 @@
 
     A simple lua module for profiler.
 
-    (you aslo can download in here  (the [lua_profiler][1]). )
+    (you aslo can download in here  (the [lua_profiler](http://git.oxrush.com/liuguirong/lua_profiler_4_pub/tree/master)). )
 
 ## how to use? 
 
@@ -39,5 +39,3 @@
     qq: 16839242
     web: oxrush.com
 ```
-
-[1]: http://git.oxrush.com/liuguirong/lua_profiler_4_pub/tree/master
