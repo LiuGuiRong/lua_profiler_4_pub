@@ -34,6 +34,5 @@
 ```
     author: liuguirong
     email:hroomkeeper@gmail.com
-    qq: 16839242
     web: oxrush.com
 ```
